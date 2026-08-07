@@ -9,7 +9,7 @@ To write a Python program using OpenCV to perform various geometric transformati
 
 The program performs the following operations:
 
-- Image Translation  
+- Image Translation 
 - Image Scaling (Resizing)  
 - Image Shearing  
 - Image Reflection (Flipping)  
